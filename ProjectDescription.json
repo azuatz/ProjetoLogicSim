@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-10-07T20:08:24.784-03:00",
-  "LastSaveTime": "2025-11-11T20:08:24.574-03:00",
+  "LastSaveTime": "2025-11-18T21:01:27.245-03:00",
   "Prefs_MainPinNamesDisplayMode": 0,
   "Prefs_ChipPinNamesDisplayMode": 0,
   "Prefs_GridDisplayMode": 1,
@@ -25,7 +25,8 @@
     "4Bit-Adder",
     "Full-Subtractor",
     "3-XOR",
-    "Fake-Full-Sub"
+    "Fake-Full-Sub",
+    "Mux 4-1"
   ],
   "StarredList":[
     {
@@ -41,7 +42,7 @@
       "IsCollection":true
     },
     {
-      "Name":"Full-Subtractor",
+      "Name":"Mux 4-1",
       "IsCollection":false
     }
   ],
